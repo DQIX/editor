@@ -4,7 +4,7 @@ A save editor for dragon quest ix
 
 ## Looking for maintainers
 
-I can no longer work on this, if you're interested in taking ownership of it, please dm me.
+I can no longer work on this, if you're interested in taking ownership of it, please create an Issue.
 The editor as it stands is basically complete, however I cannot resolve any future issues, and there are a few things yet to be added.
 
 <details><summary><h2>features/todo (116/131 + 10)</h2></summary>
