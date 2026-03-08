@@ -4549,7 +4549,7 @@ const saveLocations = [
   { name: "Quester's Rest - Trode's room",                  id: 50521,   },
   { name: "Quester's Rest - Morrie's room",                 id: 50522,   },
   { name: "Quester's Rest - Fleurette's room",              id: 50523,   },
-  { name: "Zere - entrance",                                id: 1240,    },
+  { name: "Zere - entrance",                                id: 1200,    },
   { name: "Zere - Petra's house",                           id: 1201,    },
   { name: "Zere - inn",                                     id: 1203,    },
   { name: "Zere - house",                                   id: 1204,    },
